@@ -1,0 +1,6 @@
+{
+  "name": "open-science-bioinformatics",
+  "version": "1.0.0",
+  "description": "Bioinformatics & Biological Database Search (PubChem, PubMed, UniProt, AlphaFold, PDB) Module for Apex Arc",
+  "author": "Pyintel"
+}
