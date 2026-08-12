@@ -1,6 +1,20 @@
 {
-  "name": "open-science-bioinformatics",
+  "name": "@pyintel/arc-module-science-bioinformatics",
   "version": "1.0.0",
   "description": "Bioinformatics & Biological Database Search (PubChem, PubMed, UniProt, AlphaFold, PDB) Module for Apex Arc",
-  "author": "Pyintel"
+  "author": "Pyintel",
+  "keywords": [
+    "pyintel-arc-module",
+    "arc-module"
+  ],
+  "files": [
+    "ARC",
+    "skills",
+    "tools",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"No test specified\"",
+    "build": "echo \"No build required\""
+  }
 }
